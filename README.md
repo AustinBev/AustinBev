@@ -3,7 +3,7 @@
 
 🔭 I’m currently working with [Wheelhouse, a Manufacturing Operations Management (MoM) software using C#, SQL, and DINO scripting in a multi-tenant environment.](https://wheelhousemfg.com/)
 
-📚 Constantly learning — most recently deep-diving into .NET, C#, and clean architecture practices.
+📚 Constantly learning — .NET, C#, and clean architecture practices.
 
 📬 Reach me at: **austinbev.dev@gmail.com**
 
