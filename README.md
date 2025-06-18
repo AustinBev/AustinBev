@@ -9,7 +9,7 @@
 
 📄 View My [Resume](https://drive.google.com/file/d/1xruOKpbPUsFoj4KRvUqKbPHUeevP1Oam/view?usp=drive_link)
 
-🎣 Fun Fact: I’m also into fly fishing, camping, skiing, and enjoying time with my wife and two awesome dogs.
+Hobbies: I have way too many hobbies, but some notable ones are fly fishing, golfing, skiing, cars/motorcycles, playing guitar, video games with friends, and enjoying time with my wife and two dogs!
 
 ---
 
