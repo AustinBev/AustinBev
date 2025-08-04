@@ -6,8 +6,6 @@
 
 📄 View My [Portfolio](https://abev.netlify.app/)
 
-I have so many hobbies, but some notable ones are fly fishing, golfing, skiing, cars/motorcycles, playing guitar, video games with friends, and enjoying time with my wife and two dogs!
-
 ---
 
 **Certifications:**
