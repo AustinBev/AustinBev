@@ -5,7 +5,7 @@
 
 📚 Constantly learning — .NET, C#, and clean architecture practices.
 
-📄 View My [Resume](https://drive.google.com/file/d/1xruOKpbPUsFoj4KRvUqKbPHUeevP1Oam/view?usp=drive_link)
+📄 View My [Portfolio]((https://abev.netlify.app/))
 
 I have so many hobbies, but some notable ones are fly fishing, golfing, skiing, cars/motorcycles, playing guitar, video games with friends, and enjoying time with my wife and two dogs!
 
@@ -36,6 +36,7 @@ I have so many hobbies, but some notable ones are fly fishing, golfing, skiing, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-beveridge-2ab33515b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AustinBev)
+[Portfolio]((https://abev.netlify.app/contact))
 
 ---
 
@@ -58,6 +59,7 @@ I have so many hobbies, but some notable ones are fly fishing, golfing, skiing, 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 <!-- DevOps & Tools -->
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
