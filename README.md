@@ -4,7 +4,7 @@
     <a href="https://wheelhousemfg.com/" target="_blank">Wheelhouse</a>.
 </h3>
 
-📄 View My [Portfolio](https://abev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://abev.netlify.app/)
 
 ---
 
@@ -34,9 +34,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-beveridge-2ab33515b/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AustinBev)
-
-[![Email Me from my Porfolio](https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://abev.netlify.app/)
-
 
 ---
 
