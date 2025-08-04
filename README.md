@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Austin!</h1>
+<h1 align="center">Welcome</h1>
 <h3 align="left">
     I’m a Junior Software Engineer at Ridgeline Solutions, contributing to our Manufacturing Operations Management platform,
     <a href="https://wheelhousemfg.com/" target="_blank">Wheelhouse</a>.
@@ -35,7 +35,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AustinBev)
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://abev.netlify.app/contact)
+[![Email Me from my Porfolio](https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://abev.netlify.app/)
 
 
 ---
