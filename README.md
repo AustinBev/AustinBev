@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Austin!</h1>
-<h3 align="left">Junior Software Engineer eager to contribute to impactful software solutions, with experience in backend development, automation, and multi-tenant systems. Focused on creating user-friendly tools and streamlining operational workflows across a range of technologies.</h3>
-
-🔭 I’m currently working with [Wheelhouse, a Manufacturing Operations Management (MoM) software using C#, SQL, and DINO scripting in a multi-tenant environment.](https://wheelhousemfg.com/)
+<h3 align="left">
+    I’m a Junior Software Engineer at Ridgeline Solutions, contributing to our Manufacturing Operations Management platform,
+    <a href="https://wheelhousemfg.com/" target="_blank">Wheelhouse</a>.
+</h3>
 
 📚 Constantly learning — .NET, C#, and clean architecture practices.
 
-📄 View My [Portfolio]((https://abev.netlify.app/))
+📄 View My [Portfolio](https://abev.netlify.app/)
 
 I have so many hobbies, but some notable ones are fly fishing, golfing, skiing, cars/motorcycles, playing guitar, video games with friends, and enjoying time with my wife and two dogs!
 
