@@ -4,7 +4,7 @@
     <a href="https://wheelhousemfg.com/" target="_blank">Wheelhouse</a>.
 </h3>
 
-[![Portfolio](https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://abev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://abev.netlify.app/)
 
 ---
 
