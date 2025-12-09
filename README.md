@@ -1,7 +1,6 @@
 <h1 align="center">Welcome</h1>
 <h3 align="left">
-    I’m a Junior Software Engineer at Ridgeline Solutions, contributing to our Manufacturing Operations Management platform,
-    <a href="https://wheelhousemfg.com/" target="_blank">Wheelhouse</a>.
+    I'm the Software Engineering Manager for Diametrix, a fintech software analysis company.
 </h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://abev.netlify.app/)
@@ -14,8 +13,14 @@
 ---
 
 ### 💼 Projects & Contributions
+**🔹Diametrix **
+- **Engineering Management & Onboarding**: Lead, manage, and onboard externally sourced software engineers. Establish coding standards, workflows, and review practices to maintain velocity and reliability across a distributed team.
+- **Core Product Development (Python, Svelte)**: Contribute directly to Diametrix’s Financial Analysis Software (FAS) through backend feature development (Python-based services, SQL/ORM integration, security-focused architecture) and frontend components using Svelte.
+- **Operational & Business Software Ownership**: Administer and optimize internal tools such as Jira (Kanban, board design, developer workflows), GitHub Projects, and documentation systems to streamline engineering processes and visibility across the business.
+- **Linux Infrastructure & Server Operations**: Maintain and develop Linux-based DigitalOcean droplets, including provisioning, SSH key management, backups/snapshots, security hardening, and environment migrations from legacy systems.
+- **Technical-to-Business Alignment**: Act as the interface between engineering and business leadership, translating product goals into clear technical plans, defining priorities, and ensuring delivery aligned with compliance and fintech requirements.
 
-**🔹 Wheelhouse (Current Role)**
+**🔹 Wheelhouse **
 - **Replenishment Card Flagging System**: Global scheduled script using advanced SQL to flag missing Kanban cards, integrating with FIFO scan logic, and exporting to Excel.
 - **Configurator & Tenant Automation**: Automated provisioning scripts with production-safe SQL constraints for safe multi-tenant onboarding.
 - **Client-Specific ERP Enhancements**: Wrote custom onboarding scripts, import workflows, and business logic tailored to client BOM structures using DINO.
@@ -69,3 +74,4 @@
 ![AXIOS](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Camtasia](https://img.shields.io/badge/Camtasia-1D9BF0?style=for-the-badge&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=Svelte&logoColor=FF3E00)
