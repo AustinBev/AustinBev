@@ -1,6 +1,6 @@
 <h1 align="center">Welcome</h1>
 <h3 align="left">
-    I'm the Software Engineering Manager for Diametrix, a fintech software analysis company.
+    I'm the Lead Software Engineer for Diametrix, a fintech software analysis company.
 </h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://abev.netlify.app/)
